@@ -4,12 +4,12 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class HappyNumber {
-    public static void main(String[] args) {
-        HappyNumber happyNumber = new HappyNumber();
-
-        boolean isHappyResult = happyNumber.isHappy(19);
-        System.out.println(isHappyResult);
-    }
+//    public static void main(String[] args) {
+//        HappyNumber happyNumber = new HappyNumber();
+//
+//        boolean isHappyResult = happyNumber.isHappy(19);
+//        System.out.println(isHappyResult);
+//    }
 
 
     public boolean isHappy(int n) {
